@@ -207,7 +207,7 @@ function NEWSCalculator() {
       <section className="content-card form-card">
         <div className="score-heading">
           <div>
-            <h2>NEWS 2 Calculator</h2>
+            <h2>NEWS Calculator</h2>
             <p className="muted">National Early Warning Score</p>
           </div>
           <div className={`score-badge ${risk.tone}`}>
